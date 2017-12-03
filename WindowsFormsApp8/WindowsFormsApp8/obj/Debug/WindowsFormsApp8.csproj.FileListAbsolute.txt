@@ -1,0 +1,10 @@
+c:\users\natalya\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csprojResolveAssemblyReference.cache
+c:\users\natalya\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+c:\users\natalya\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.Cache
+c:\users\natalya\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\Natalya\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\Hooker.exe.config
+C:\Users\Natalya\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\Hooker.exe
+C:\Users\Natalya\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Debug\Hooker.pdb
+C:\Users\Natalya\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\Hooker.Properties.Resources.resources
+C:\Users\Natalya\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\Hooker.exe
+C:\Users\Natalya\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Debug\Hooker.pdb
